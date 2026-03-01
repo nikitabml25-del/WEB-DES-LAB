@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Web Designing Lab Practical 1</title>
+    <meta charset="UTF-8">
+</head>
+
+<body style="background-color: #f2f2f2; font-family: Arial; text-align: center;">
+
+    <h1 style="color: darkblue;">Web Designing Lab</h1>
+    <h2>Practical 1</h2>
+
+    <hr>
+
+    <p><b>Name:</b> Your Name Here</p>
+    <p><b>Roll No:</b> Your Roll Number</p>
+    <p><b>College:</b> S.B. Jain Institute of Technology, Nagpur</p>
+
+    <h3 style="color: green;">About GitHub</h3>
+    <p>
+        GitHub is a web-based platform used for version control and collaboration.
+        It allows developers to store, manage, and track changes in their projects.
+    </p>
+
+    <h3 style="color: purple;">Features of GitHub</h3>
+    <ul style="list-style-position: inside;">
+        <li>Repository Management</li>
+        <li>Branch Creation</li>
+        <li>Commits and Version Control</li>
+        <li>Pull Requests</li>
+        <li>Collaboration</li>
+    </ul>
+
+    <hr>
+
+    <p style="color: gray;">Submitted for Web Designing Lab Practical</p>
+
+</body>
+</html>
